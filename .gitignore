@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+osa2/*
+Osa2--/*
+_cacache/*
+_locks/*
+index-v5/*
+node_modules/*
+

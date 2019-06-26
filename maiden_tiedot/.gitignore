@@ -1,0 +1,7 @@
+# Logs
+_logs
+*.log
+_cacache
+_locks
+index-v5
+node_modules
